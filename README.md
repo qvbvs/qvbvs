@@ -14,11 +14,12 @@
 
 
 <h2 align="center">👨‍💻 Languages and Tools 👨‍💻</h2>
-<p align="center"> <img src="https://i.imgur.com/CIsm2RN.png" alt="java" width="auto" height="50"/></p>
-<p align="center"> <img src="https://i.imgur.com/C54gb9w.png" alt="java" width="auto" height="50"/></p>
+<p align="center">
+    <img src="https://i.imgur.com/CIsm2RN.png" alt="java" width="auto" height="50"/>
+    <img src="https://i.imgur.com/C54gb9w.png" alt="java" width="auto" height="50"/>
+</p>
 
 <h2 align="center">📈 Statistics 📈</h2>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=j4qb1&theme=dark&show_icons=true&locale=en" alt="j4qb" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j4qb1&theme=dark" alt="j4qb" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=j4qb1&theme=dark&show_icons=true&locale=en" alt="j4qb" /><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j4qb1&theme=dark" alt="j4qb" /></p>

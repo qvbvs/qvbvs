@@ -22,4 +22,4 @@
 <h2 align="center">📈 Statistics 📈</h2>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qvbvs1&theme=dark&show_icons=true&locale=en" alt="qvbvs" /><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qvbvs1&theme=dark" alt="qvbvs" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qvbvs&theme=dark&show_icons=true&locale=en" alt="qvbvs" /><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qvbvs&theme=dark" alt="qvbvs" /></p>
